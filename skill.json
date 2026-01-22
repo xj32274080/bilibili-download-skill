@@ -1,0 +1,7 @@
+{
+  "name": "bilibili-download",
+  "description": "下载B站视频/播放列表到D盘bilibili_videos文件夹，支持批量下载系列视频，自动添加集数序号，H.264格式（QQ影音兼容）",
+  "version": "1.3.0",
+  "author": "Claude",
+  "command": "下载B站视频"
+}
